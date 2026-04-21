@@ -1,0 +1,66 @@
+[
+  {
+    "id": "2048",
+    "name": "2048",
+    "category": "Puzzle",
+    "thumbnail": "https://picsum.photos/seed/2048/600/400",
+    "url": "https://play2048.co/",
+    "description": "Join the numbers and get to the 2048 tile!"
+  },
+  {
+    "id": "doodle-jump",
+    "name": "Doodle Jump",
+    "category": "Arcade",
+    "thumbnail": "https://picsum.photos/seed/doodle/600/400",
+    "url": "https://doodlejump.io/",
+    "description": "Jump from platform to platform in this addictive vertical scroller."
+  },
+  {
+    "id": "tetris",
+    "name": "Classic Tetris",
+    "category": "Classic",
+    "thumbnail": "https://picsum.photos/seed/tetris/600/400",
+    "url": "https://tetris.com/play-tetris",
+    "description": "The world's most famous block puzzle game."
+  },
+  {
+    "id": "slope",
+    "name": "Slope",
+    "category": "Action",
+    "thumbnail": "https://picsum.photos/seed/slope/600/400",
+    "url": "https://slope-game.io/",
+    "description": "Drive a ball down a treacherous slope and avoid obstacles."
+  },
+  {
+    "id": "geometry-dash",
+    "name": "Geometry Dash",
+    "category": "Action",
+    "thumbnail": "https://picsum.photos/seed/geometry/600/400",
+    "url": "https://geometry-dash.co/",
+    "description": "Jump and fly through danger in this rhythm-based action platformer."
+  },
+  {
+    "id": "snake",
+    "name": "Snake.io",
+    "category": "Arcade",
+    "thumbnail": "https://picsum.photos/seed/snake/600/400",
+    "url": "https://snake.io/",
+    "description": "Slither around and try to become the biggest snake."
+  },
+  {
+    "id": "chess",
+    "name": "Chess Online",
+    "category": "Strategy",
+    "thumbnail": "https://picsum.photos/seed/chess/600/400",
+    "url": "https://lichess.org/tv",
+    "description": "Play against the world or your friends in classic chess."
+  },
+  {
+    "id": "cookie-clicker",
+    "name": "Cookie Clicker",
+    "category": "Idle",
+    "thumbnail": "https://picsum.photos/seed/cookie/600/400",
+    "url": "https://orteil.dashnet.org/cookieclicker/",
+    "description": "Bake millions of delicious cookies in this iconic idle game."
+  }
+]

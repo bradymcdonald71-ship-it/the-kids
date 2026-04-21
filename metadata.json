@@ -1,0 +1,15 @@
+{
+  "name": "Nova Games Hub",
+  "description": "A high-performance portal for unblocked premium browser games with category filtering and instant search.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "Game Hub",
+    "Filtering",
+    "Search",
+    "Iframe Integration"
+  ]
+}
