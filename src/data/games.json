@@ -56,6 +56,14 @@
     "description": "Play against the world or your friends in classic chess."
   },
   {
+    "id": "poly-track",
+    "name": "Poly Track",
+    "category": "Racing",
+    "thumbnail": "https://images.unsplash.com/photo-1511994298241-608e28f14f66?auto=format&fit=crop&q=80&w=800",
+    "url": "https://polytrack.io/",
+    "description": "Fast-paced low-poly racing game with custom track editor and intense physics."
+  },
+  {
     "id": "cookie-clicker",
     "name": "Cookie Clicker",
     "category": "Idle",

@@ -18,19 +18,10 @@ import {
 import { motion, AnimatePresence } from "motion/react";
 import gamesData from "./data/games.json";
 
-interface Game {
-  id: string;
-  name: string;
-  category: string;
-  thumbnail: string;
-  url: string;
-  description: string;
-}
-
 export default function App() {
   const [searchQuery, setSearchQuery] = useState("");
-  const [selectedCategory, setSelectedCategory] = useState<string>("All");
-  const [selectedGame, setSelectedGame] = useState<Game | null>(null);
+  const [selectedCategory, setSelectedCategory] = useState("All");
+  const [selectedGame, setSelectedGame] = useState(null);
   const [isIframeFullscreen, setIsIframeFullscreen] = useState(false);
 
   const categories = useMemo(() => {
